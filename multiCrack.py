@@ -31,8 +31,6 @@ def normMode():
             firstRun = False
             textOld = text
 
-            cv2.imshow('Image', im)
-
 input("Press Enter to start")
 
 normMode()
